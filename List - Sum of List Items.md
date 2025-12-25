@@ -9,9 +9,13 @@ To write a Python program that calculates the **sum of all elements** in a list.
 3. Print the result.
 
 ## 🧾 Program
-
-Add code here
+```
+numbers = [10, 20, 30, 40, 50]
+total = sum(numbers)
+print(total)
+```
 
 ## Output
-
+![alt text](image-4.png)
 ## Result
+Thus, the Python program to find the sum of all elements in a list is executed successfully.
