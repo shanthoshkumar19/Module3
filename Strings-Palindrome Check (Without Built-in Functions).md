@@ -13,15 +13,14 @@ To write a Python program to check whether the string `"google"` is a **palindro
 
 ## 🧾 Program
 ```
-s = "google"
-rev = s[::-1]
-
-if s == rev:
-    print("Palindrome")
+a=input()
+s=a[::-1]
+if a==s:
+    print("The entered string is palindrome")
 else:
-    print("Not Palindrome")
+    print("The entered string is not palindrome")
 ```
 ## Output
-![alt text](image-1.png)
+![alt text](image-3.png)
 ## Result
 Thus, the Python program to check whether a string is a palindrome without using built-in functions is executed successfully.

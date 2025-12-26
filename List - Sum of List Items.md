@@ -10,12 +10,11 @@ To write a Python program that calculates the **sum of all elements** in a list.
 
 ## 🧾 Program
 ```
-numbers = [10, 20, 30, 40, 50]
-total = sum(numbers)
-print(total)
+items=[153,147,124,102]
+print(sum(items))
 ```
 
 ## Output
-![alt text](image-4.png)
+![alt text](image.png)
 ## Result
 Thus, the Python program to find the sum of all elements in a list is executed successfully.

@@ -18,6 +18,6 @@ print(8 in x)
 ```
 
 ## Output
-![alt text](image.png)
+![alt text](image-4.png)
 ## Result
 Thus, the Python program to check the existence of elements in a tuple is executed successfully.
